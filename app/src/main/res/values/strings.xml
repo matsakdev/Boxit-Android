@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EllicityCompose</string>
+<!--    <string name="baseURL">http://10.0.2.2:8080</string>-->
+    <string name="baseURL">https://ellicity.azurewebsites.net</string>
+    <string name="login">/auth/login/</string>
+    <string name="signup">/auth/signup</string>
+    <string name="systemsURL">/systems</string>
+    <string name="connectToSystemURL">/connect</string>
+    <string name="getUsersCircuitsURL">/circuits</string>
+    <string name="SYSTEMS_PINTENT">systemsPendingIntent</string>
+    <string name="STATUS_FINISH">200</string>
+    <string name="create_acct">Please enter a valid email and password that is at least 6 characters</string>
+    <string name="getMeasurements">/measurements</string>
+    <string name="getCircuits">/circuits</string>
+    <string name="userURL">/users</string>
+    <string name="statisticsURL">/statistics</string>
+    <string name="lastYearStatisticsURL">/lastyear</string>
+    <string name="currentMonthStatistics">/actual</string>
+    <string name="lastMonthStatistics">/lastmonth</string>
+    <string name="devicesState">/states</string>
+    <string name="getDevices">/devices</string>
+</resources>

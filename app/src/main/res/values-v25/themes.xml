@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.EllicityCompose" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorPrimaryDark">@color/darkBlue</item>
+        <!-- Secondary brand color. -->
+        <item name="android:colorSecondary">@color/blue</item>
+        <!-- Status bar color. -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
